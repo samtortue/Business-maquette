@@ -1,0 +1,17 @@
+.inline {
+display: inline-block;
+width: 200px;
+}
+
+
+#column1 {
+  background-color: blue;
+}
+
+#column2 {
+  background-color: orange;
+}
+
+#column3 {
+background-color: limegreen;
+}
